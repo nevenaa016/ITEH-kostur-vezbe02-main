@@ -83,7 +83,7 @@
                 <div class="modal-content">
                     <div class="modal-header">
                         <button type="button" class="close" data-dismiss="modal">&times;</button>
-                        <h3 class="modal-title text-center">Zakazi kolokvijum</h3>
+                        <h3 class="modal-title text-center">Zakazivanje kolokvijuma</h3>
                     </div>
                     <div class="modal-body">
                         <form action="#" method="post" id="dodajForm">
